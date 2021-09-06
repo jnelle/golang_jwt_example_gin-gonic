@@ -1,0 +1,3 @@
+mongodb_url: "mongodb://user:password@YOURIP:27017/"
+secret_key: "SECRET"
+expires: 30
